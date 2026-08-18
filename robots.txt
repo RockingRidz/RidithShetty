@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rockingridz.github.io/RidithShetty/sitemap.xml
