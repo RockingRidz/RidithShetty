@@ -1,15 +1,24 @@
-# Ridith Shetty — Portfolio & Research Summary
+# Ridith Shetty — Portfolio & Project Summary
 
 > 13-year-old student innovator, tech creator, and Student Mentor at Delhi Public School Atal Tinkering Lab (ATL).
 
-## Core Projects
-- **AeroVasita**: Smart helmet featuring active particulate air filtration and impact crash telemetry. Selected and exhibited at the St. Joseph's University Open House 2026. Participant and 21,000 INR cash prize winner at the Seed The Future Entrepreneurs Hackathon. Co-created with Mohammed Danial Ahmad, Mayukh Chatterjee, Thanush Kumar, and A Mohammad Zafar.
-- **FlowGuardian**: Intelligent IoT & computer-vision crowd density management system.
-- **Chalk Cycle**: Sustainable chalk recycling mechanism for classrooms.
+## Overview
+Ridith Shetty is a young technologist, hardware developer, and student mentor exploring artificial intelligence, embedded systems, and computer vision.
 
-## Skills & Domains
-- Artificial Intelligence, Computer Vision (YOLO, OpenCV), IoT Microcontrollers (ESP32, Arduino), Python, Robotics.
+## Notable Projects
+- **AeroVasita**: An innovative smart helmet integrating active air filtration with sudden impact crash detection and SOS telemetry. Selected, exhibited, and presented at the St. Joseph's University (SJU) Open House 2026. Participant and 21,000 INR cash prize winner at the Dassault Systèmes 'Seed The Future Entrepreneurs' Hackathon. Developed in collaboration with Mohammed Danial Ahmad, Mayukh Chatterjee, Thanush Kumar, and A Mohammad Zafar.
+- **FlowGuardian**: Intelligent IoT & computer vision crowd density monitoring and bottleneck management system designed to enhance safety in high-density gathering spaces.
+- **Chalk Cycle**: Eco-friendly mechanical recycling system transforming classroom chalk powder into reusable chalk sticks.
 
-## Official Links
-- Canonical Website: https://rockingridz.github.io/Ridith-Shetty-/
+## Roles & Recognitions
+- **Student Mentor**: DPS Atal Tinkering Lab (guiding fellow peers in microcontrollers and rapid prototyping).
+- **ATL Alumnus**: Selected Atal Tinkering Lab alumnus.
+- **Presenter**: St. Joseph's University Open House 2026.
+
+## Technical Skills
+- Embedded Systems & Hardware: ESP32, Arduino, sensor integration, IoT telemetry.
+- Software & AI: Python, OpenCV, YOLO computer vision, Web development.
+
+## Canonical Web Links
+- Website: https://rockingridz.github.io/RidithShetty/
 - GitHub: https://github.com/RockingRidz
