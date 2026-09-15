@@ -1,0 +1,15 @@
+# Ridith Shetty — Portfolio & Research Summary
+
+> 13-year-old student innovator, tech creator, and Student Mentor at Delhi Public School Atal Tinkering Lab (ATL).
+
+## Core Projects
+- **AeroVasita**: Smart helmet featuring active particulate air filtration and impact crash telemetry. Selected and exhibited at the St. Joseph's University Open House 2026. Participant and 21,000 INR cash prize winner at the Seed The Future Entrepreneurs Hackathon. Co-created with Mohammed Danial Ahmad, Mayukh Chatterjee, Thanush Kumar, and A Mohammad Zafar.
+- **FlowGuardian**: Intelligent IoT & computer-vision crowd density management system.
+- **Chalk Cycle**: Sustainable chalk recycling mechanism for classrooms.
+
+## Skills & Domains
+- Artificial Intelligence, Computer Vision (YOLO, OpenCV), IoT Microcontrollers (ESP32, Arduino), Python, Robotics.
+
+## Official Links
+- Canonical Website: https://rockingridz.github.io/Ridith-Shetty-/
+- GitHub: https://github.com/RockingRidz
